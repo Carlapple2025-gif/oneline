@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>zh_CN</string>
+    <key>CFBundleDisplayName</key>
+    <string>一行</string>
+    <key>CFBundleExecutable</key>
+    <string>OneLine</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.carlli.oneline</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>一行</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.productivity</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>LSMultipleInstancesProhibited</key>
+    <true/>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>一行需要通过 macOS 自动化接口，把你写下的内容保存到备忘录。</string>
+    <key>NSCalendarsFullAccessUsageDescription</key>
+    <string>一行需要访问日历，以便把你写下的日程直接加入日历。</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>一行需要访问日历，以便把你写下的日程直接加入日历。</string>
+    <key>NSHumanReadableCopyright</key>
+    <string>© 2026 Carl. All rights reserved.</string>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+    <key>NSRemindersFullAccessUsageDescription</key>
+    <string>一行需要访问提醒事项，以便把你写下的待办直接加入清单。</string>
+    <key>NSRemindersUsageDescription</key>
+    <string>一行需要访问提醒事项，以便把你写下的待办直接加入清单。</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSSupportsAutomaticGraphicsSwitching</key>
+    <true/>
+</dict>
+</plist>

@@ -1,0 +1,9 @@
+.build/
+.swiftpm-cache/
+.swiftpm-config/
+.swiftpm-security/
+.clang-cache/
+.tmp/
+.snapshots/
+.DS_Store
+/dist/
