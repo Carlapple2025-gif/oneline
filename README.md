@@ -2,7 +2,7 @@
 
 > 一个常驻 macOS 菜单栏的快速记录工具：**一种语法，写入日历、待办、备忘录。**
 
-**下载**：[最新 Release](../../releases/latest) · **源码**：当前仓库
+**下载**：[最新 Release](../../releases/latest) · **平台**：macOS 14+（Apple Silicon）
 
 <p align="center">
   <img src="docs/panel.png" width="520" alt="一行快速输入面板">
@@ -192,7 +192,7 @@ c 产品评审 明天 14:00-15:00 @工作 #评审
 ### 环境
 
 - macOS 14+
-- Xcode 15+（本项目在 Xcode 27.1 / Swift 6.4 下构建验证）
+- Xcode 16+（本项目在 Xcode 27.1 / Swift 6.4 下构建验证）
 - 无第三方依赖
 
 ### 构建
